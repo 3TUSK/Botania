@@ -14,8 +14,8 @@ generator.botania-skyblock=水晶花园
 generator.botania-skyblock.info=不推荐植物魔法新手使用
 
 # Something that is not localized, translators, do NOT change this line.
-# You do not need to copy this into your lang file 请勿将此条目重新复制到zh_CN.lang中 谢谢合作
-# [EXPUNGED] -> Occupying space so that it looks like zh_CN has same line number as en_US
+# You do not need to copy this into your lang file 请勿将此条目重新复制到 zh_cn.lang 中 谢谢合作
+# [EXPUNGED] -> Occupying space so that it looks like zh_cn has same line number as en_us
 
 botaniamisc.nextPage=下一页
 botaniamisc.prevPage=上一页
@@ -351,6 +351,7 @@ shaders.enabled=启用光影支持
 baubleRender.enabled=启用饰品渲染
 spreader.posShift=发射器位置移动
 staticFloaters.enabled=启用静态浮空花
+debugInfo.enabled=启用植物魔法的调试界面信息
 versionChecking.enabled=启用版本检查
 wandBeam.static=启用静态法杖光线
 worldgen.flower.density=世界生成花密度
@@ -597,7 +598,7 @@ botania.challenge.apothecaryRefill.desc=建造一套当花瓣药剂台空的 时
 botania.challenge.treeFarm=树场
 botania.challenge.treeFarm.desc=创建一个自动化的,能够自我 维持的树场.如果能够种植多 种类型的树奖励积分.
 botania.challenge.fullCropFarm=齐全的作物农场
-botania.challenge.fullCropFarm.desc=创建一个有着所有类型作物 (小麦,胡萝卜,马铃薯,西瓜,南瓜, 可可豆和地狱疣)并且能够全 效率运作的农场.如果输出物 品分类奖励积分.
+botania.challenge.fullCropFarm.desc=创建一个有所有作物（即小 麦、胡萝卜、马铃薯、甜菜 根、西瓜、南瓜、可可豆和 地狱疣）并且全速工作的农 场。如果产物能自动分类输 出则奖励积分。
 botania.challenge.animalFarm=动物农场
 botania.challenge.animalFarm.desc=创建一个有着所有能够饲养 的动物的自动化农场.如果不 需要手动喂养食物奖励积分.
 botania.challenge.boneMealFarm=骨粉农场
@@ -3563,15 +3564,15 @@ botania.page.goddessCharm1=没有爆炸！
 # - ALFHOMANCY
 # -- THE PORTAL TO ALFHEIM
 botania.entry.aIntro=精灵传送门
-botania.tagline.aIntro=旅行的下一步...
-botania.page.aIntro0=据说过去,&4精灵&0曾与&4Minecrafters&0 共享世界.然而未知的变故, 使得他们被禁止回到自己的 世界,&4艾尔夫海姆&0.<br>他们一直以来都在尝试着桥 接两个世界,最终制作传送门 的方法被发明了出来.
-botania.page.aIntro1=制作这个传送门看样子不是 个简单的工作,需要一些特别 的材料.如下:8个&1活木&0方块, 3个&1微光活木&0方块,1个&1精灵门&0 &1核心&0(继续读),2个&1魔力池&0和 2个&1自然水晶&0(继续读).
+botania.tagline.aIntro=旅行的下一步……
+botania.page.aIntro0=据说&4精灵&0与我们 &4Minecrafter&0 在过去共享世界。然而，未知 的变故使得他们被迫重返故 土——&4艾尔夫海姆&0。<br>一直以来都有人在尝试着桥 接两个世界，最终制作传送门 的方法被发明了出来。
+botania.page.aIntro1=制作这个传送门看样子不是 个简单的工作，需要一些特别 的材料，如下：8个&1活木&0方块、 3个&1微光活木&0方块、1个&1精灵门&0 &1核心&0（继续读）、至少2个&1魔力&0 &1池&0和2个&1自然水晶&0（继续读）。
 botania.page.aIntro2=制作&1精灵门核心&0
-botania.page.aIntro3=合成&1自然水晶&0
-botania.page.aIntro4=加上&1微光活木&0
-botania.page.aIntro5=以精灵门核心为中心的11x11 范围内至少要有两个自然水晶 和魔力池,位置任意.要打开传 送门,只需用&1森林法杖&0右击核 心.<br>门需要两个池子中大量的&4魔&0 &4力&0来开启,之后就只会缓慢抽 取微量保持自身供能.如果&4魔&0 &4力&0耗尽了,链接就会被破坏.
-botania.page.aIntro6=开启门所需的&4魔力&0量远多于 维持所需的,因此关闭传送门 想节省&4魔力&0的做法是下下策.<br>此外,它的连接不足以强到能 让生物通过,但&4物品&0似乎可以.
-botania.page.aIntro7=这本书里关于&1艾尔夫海姆&0的 情报也只有这么多了,或许你 &4让精灵看看这本书&0能获得更 多情报.
+botania.page.aIntro3=制作&1自然水晶&0
+botania.page.aIntro4=建造精灵传送门
+botania.page.aIntro5=以精灵门核心为中心 11x11 范围内至少要有两个自然水 晶，每个自然水晶的正下方 一格要放一个魔力池。用&1森&0 &1林法杖&0右击核心即可打开传 送门。<br>开门时会消耗大量的&4魔力&0， 消耗会平摊每一个有效的魔 力池上去。
+botania.page.aIntro6=传送门似乎能让物品通过， 但传送需要消耗一定&4魔力&0才 能完成，这点消耗也会平摊 到每一个有效的魔力池上去。<br>此外，它的连接不足以强到能 让生物通过，所以不要想着进 入&4艾尔夫海姆&0啦。
+botania.page.aIntro7=这本书里关于&1艾尔夫海姆&0的 情报也只有这么多了，或许你 &4让精灵看看这本书&0能获得更 多情报。
 
 # -- A MESSAGE FROM ELVEN GARDE
 botania.entry.elfMessage=来自爱尔文·加尔得的消息
