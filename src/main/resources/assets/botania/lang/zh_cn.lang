@@ -1495,15 +1495,15 @@ item.botania:spellCloth.name=封印之布
 item.botania:thornChakram0.name=荆棘飞轮
 item.botania:thornChakram1.name=闪耀飞轮
 item.botania:overgrowthSeed.name=增生之种
-item.botania:craftPattern0.name=合成模板#1： 1x1
-item.botania:craftPattern1.name=合成模板#2： 2x2
-item.botania:craftPattern2.name=合成模板#3： 1x2
-item.botania:craftPattern3.name=合成模板#4： 2x1
-item.botania:craftPattern4.name=合成模板#5： 1x3
-item.botania:craftPattern5.name=合成模板#6： 3x1
-item.botania:craftPattern6.name=合成模板#7： 2x3
-item.botania:craftPattern7.name=合成模板#8： 3x2
-item.botania:craftPattern8.name=合成模板#9： 圈形
+item.botania:craftPattern0.name=合成模板#1：1x1
+item.botania:craftPattern1.name=合成模板#2：2x2
+item.botania:craftPattern2.name=合成模板#3：1x2
+item.botania:craftPattern3.name=合成模板#4：2x1
+item.botania:craftPattern4.name=合成模板#5：1x3
+item.botania:craftPattern5.name=合成模板#6：3x1
+item.botania:craftPattern6.name=合成模板#7：2x3
+item.botania:craftPattern7.name=合成模板#8：3x2
+item.botania:craftPattern8.name=合成模板#9：圈形
 item.botania:gaiaIngot.name=盖亚魂锭
 item.botania:ancientWill0.name=艾琳的意志
 item.botania:ancientWill1.name=达洛克的意志
@@ -2218,34 +2218,34 @@ botania.page.dreamwoodSpreader3=终极发射器
 # -- ELVEN MANA LENSES
 botania.entry.elvenLenses=精灵魔力透镜
 botania.tagline.elvenLenses=新能力！高级魔力透镜
-botania.page.elvenLenses0=是时候利用来自阿尔弗海姆 的知识了,同时也有了一批 新的&1魔力透镜&0供你体验<br>不像那些世间所拥有的平凡 透镜，这些透镜有更广泛的 功能...
-botania.page.elvenLenses1=首先是&1涂色透镜&0.&1涂色透镜&0需 要染成十六种颜色之一才能 工作.当它碰到了一个可染 色的方块(&1羊毛,硬化粘土或 是玻璃&0...)它会将任何方块染成 与&4魔力脉冲&0本身相同的颜色. 看起来对&4羊&0同样有效。
+botania.page.elvenLenses0=是时候利用来自阿尔弗海姆 的知识了，同时也有了一批 新的&1魔力透镜&0供你体验<br>不像那些世间所拥有的平凡 透镜，这些透镜有更广泛的 功能...
+botania.page.elvenLenses1=首先是&1涂色透镜&0。&1涂色透镜&0需 要染成十六种颜色之一才能 工作。当它碰到了一个可染 色的方块（&1羊毛,硬化粘土或 是玻璃&0...）它会将任何方块染成 与&4魔力脉冲&0本身相同的颜色。 看起来对&4羊&0同样有效。
 botania.page.elvenLenses2=涂色透镜
-botania.page.elvenLenses3=&1传送透镜&0是个有趣的透镜 。其发出的脉冲，在接触到&1力 量传递器&0时将会传送到&1力量 传递器&0绑定的方块处且不会 出现魔力损耗.其次,当它 与&1挖掘透镜&0组合成复合透镜 (&1挖掘透镜&0必须是可见的),这 会使得脉冲不会破坏&力量传 递器&0或&1活塞&0，并且会将被破 坏的方块传送至脉冲起点。
+botania.page.elvenLenses3=&1传送透镜&0是个有趣的透镜 。其发出的脉冲，在接触到&1力 量传递器&0时将会传送到&1力量 传递器&0绑定的方块处且不会 出现魔力损耗。其次，当它 与&1挖掘透镜&0组合成复合透镜 （&1挖掘透镜&0必须是可见的），这 会使得脉冲不会破坏&力量传 递器&0或&1活塞&0，并且会将被破 坏的方块传送至脉冲起点。
 botania.page.elvenLenses4=传送透镜
-botania.page.elvenLenses5=&1变向透镜&只会在&1魔力发射器&0 上工作。其发出的脉冲在接 触&1魔力发射器&0时,不仅会发 生普通的&4魔力&0传输,还会使 得接受该脉冲的发射器朝向 发射该脉冲的发射器。
+botania.page.elvenLenses5=&1变向透镜&只会在&1魔力发射器&0 上工作。其发出的脉冲在接 触&1魔力发射器&0时，不仅会发 生普通的&4魔力&0传输，还会使 得接受该脉冲的发射器朝向 发射该脉冲的发射器。
 botania.page.elvenLenses6=变向透镜
-botania.page.elvenLenses7=&1庆祝透镜&0的功能类似于&1爆炸 透镜&0，然而不是爆炸，而是一 束根据脉冲颜色的烟花.
+botania.page.elvenLenses7=&1庆祝透镜&0的功能类似于&1爆炸 透镜&0，然而不是爆炸，而是一 束根据脉冲颜色的烟花。
 botania.page.elvenLenses8=庆祝透镜
-botania.page.elvenLenses9=&1闪耀透镜&0是一种&4控制透镜&0。<br>它接手了&1魔力发射器&0原本功能, 组织它发射魔力脉冲.作为替代, 连续喷射有着脉冲颜色的颗粒，发 射器会朝着这个方块一直喷射。<br>显然它有着很好的装饰意义。
+botania.page.elvenLenses9=&1闪耀透镜&0是一种&4控制透镜&0。<br>它接手了&1魔力发射器&0原本功能， 组织它发射魔力脉冲。作为替代， 连续喷射有着脉冲颜色的颗粒，发 射器会朝着这个方块一直喷射。<br>显然它有着很好的装饰意义。
 botania.page.elvenLenses10=闪耀透镜
-botania.page.elvenLenses11=&1绊线透镜&0是另一种&4控制透镜&0.<br>装有此透镜的发射器只会在有 生物或玩家经过其&4魔力脉冲&0的 轨迹时才会发射。
+botania.page.elvenLenses11=&1绊线透镜&0是另一种&4控制透镜&0。<br>装有此透镜的发射器只会在有 生物或玩家经过其&4魔力脉冲&0的 轨迹时才会发射。
 botania.page.elvenLenses12=绊线透镜
 
 # -- MANA PRISM
 botania.entry.prism=魔力棱镜
 botania.tagline.prism=飞行中改变脉冲性质
-botania.page.prism0=&1魔力透镜&0的原理使得能量可 以通过控制&4魔力脉冲&0传递, &1魔力棱镜&0使用该技术使得脉 冲在穿过时附加其上的透镜 效果.<br>使用&1幻影平台&0作为原料,这个 方块不具有碰撞体积,实体和 脉冲可以穿过它,就像它不存 在一般
-botania.page.prism1=使用任何类型的&1魔力透镜&0右 击它可以将其装在棱镜上.当 &4魔力脉冲&0穿过棱镜时,它的颜 色和效果就会被设置成透镜 的.假如透镜未染色,脉冲就会 变为白色.<br>使用4个基础透镜同样可以 增加脉冲损失&4魔力&0前飞行的 时间,让它飞得更远.
-botania.page.prism2=它也可以用红石信号关闭.
+botania.page.prism0=&1魔力透镜&0的原理使得能量可 以通过控制&4魔力脉冲&0传递， &1魔力棱镜&0使用该技术使得脉 冲在穿过时附加其上的透镜 效果。<br>使用&1幻影平台&0作为原料，这个 方块不具有碰撞体积，实体和 脉冲可以穿过它，就像它不存 在一般
+botania.page.prism1=使用任何类型的&1魔力透镜&0右 击它可以将其装在棱镜上。当 &4魔力脉冲&0穿过棱镜时，它的颜 色和效果就会被设置成透镜 的。假如透镜未染色，脉冲就会 变为白色。<br>使用4个基础透镜同样可以 增加脉冲损失&4魔力&0前飞行的 时间，让它飞得更远。
+botania.page.prism2=它也可以用红石信号关闭。
 botania.page.prism3=墙上另一个像素
 
 # -- MANA ON RAILS
 botania.entry.poolCart=轨道上的魔力
 botania.tagline.poolCart=这不是网络框架
-botania.page.poolCart0=说起远距离传输&4魔力&0,还有什 么比把&1魔力池&0装在&1矿车&0里更 简单的方法呢?这很简单.就 像其他的矿车一样,制造&1魔力&0 &1池矿车&0,它可以在轨道上装载 并运输&4魔力&0.<br>破坏装有&4魔力池&0的矿车会浪 费掉&4魔力&0,小心点.
-botania.page.poolCart1=在矿车和池子间传输&4魔力&0需 要&1魔力泵&0.它可以面对4个主 要方向并在相邻的池子和目 标池子对面轨道上的魔力池 矿车之间传输&4魔力&0.<br>传输速率由于本身构造相当 的快,所以作为高速的代价, 它伴随着&4魔力损耗&0.
-botania.page.poolCart2=在泵中,&4魔力&0流动去向的一侧 是粉色的,&4魔力&0会从蓝色端吸 取.<br>泵可以用红石关闭,&1比较器&0会 根据矿车内&4魔力&0含量输出信 号.<br>最后,魔力池矿车只能用于运 输,不能将其中的&4魔力&0接收,发 送,传输或注入任何物品.
+botania.page.poolCart0=说起远距离传输&4魔力&0，还有什 么比把&1魔力池&0装在&1矿车&0里更 简单的方法呢？这很简单.就 像其他的矿车一样，制造&1魔力&0 &1池矿车&0，它可以在轨道上装载 并运输&4魔力&0。<br>破坏装有&4魔力池&0的矿车会浪 费掉&4魔力&0，小心点。
+botania.page.poolCart1=在矿车和池子间传输&4魔力&0需 要&1魔力泵&0。它可以面对4个主 要方向并在相邻的池子和目 标池子对面轨道上的魔力池 矿车之间传输&4魔力&0。<br>传输速率由于本身构造相当 的快，所以作为高速的代价， 它伴随着&4魔力损耗&0。
+botania.page.poolCart2=在泵中，&4魔力&0流动去向的一侧 是粉色的，&4魔力&0会从蓝色端吸 取。<br>泵可以用红石关闭，&1比较器&0会 根据矿车内&4魔力&0含量输出信 号。<br>最后，魔力池矿车只能用于运 输，不能将其中的&4魔力&0接收，发 送，传输或注入任何物品。
 botania.page.poolCart3=我爱火车
 botania.page.poolCart4=这不是管道
 
@@ -2254,193 +2254,193 @@ botania.entry.sparkChanger=火花工匠台
 botania.tagline.sparkChanger=用红石加强对火花的控制
 botania.page.sparkChanger0=&1火花工匠台&0是个能改变&1火花 升级&0的方块，只要将其放在&1魔 力池&0或其他接有&1火花&0的方块 上就能让它们相连接。<br>只要用&1火花升级&0右击&1火花工匠 台&0就能将升级装入，再次右 击即可取下。
 botania.page.sparkChanger1=当&1火花工匠台&0收到红石信号 时，它会在相连的&1火花&0中随 机挑选一个与自身所存升级 类型不同的火花，并用存储 的升级替换&1该火花&0的升级。<br>储存的升级可以通过&1漏斗&0一 类的途径导出，使用比较器 也可以辨别升级的类型。
-botania.page.sparkChanger2=哈哈, 水火相容...
+botania.page.sparkChanger2=哈哈， 水火相容...
 
 # -- MANATIDE BELLOWS
 botania.entry.bellows=魔源风箱
 botania.tagline.bellows=让魔力池和熔炉更快工作
-botania.page.bellows0=&1魔源风箱&0是一种简单的,用来 提升&1魔力池&0传输速率的设备.<br>将这些风箱放在魔力池旁边, 并将风口对准, &魔力池&0传输&4魔力&0到&1魔力石板 &0或类似物品的速率就会提升 .使用多个风箱将使得传输 速率变得更快
-botania.page.bellows1=&1魔源风箱&0另一个不怎么显眼 的能力是让&1熔炉&0的火烧的更 旺<br>通过右击来手动使用&1魔源 风箱&0，并将风向口对准一个正 在使用&1熔炉&0并鼓动他们能够 使得&1熔炉&0烧东西变得更有效 率且更为迅速.
+botania.page.bellows0=&1魔源风箱&0是一种简单的，用来 提升&1魔力池&0传输速率的设备。<br>将这些风箱放在魔力池旁边， 并将风口对准， &魔力池&0传输&4魔力&0到&1魔力石板 &0或类似物品的速率就会提升 。使用多个风箱将使得传输 速率变得更快
+botania.page.bellows1=&1魔源风箱&0另一个不怎么显眼 的能力是让&1熔炉&0的火烧的更 旺<br>通过右击来手动使用&1魔源 风箱&0，并将风向口对准一个正 在使用&1熔炉&0并鼓动他们能够 使得&1熔炉&0烧东西变得更有效 率且更为迅速。
 botania.page.bellows2=是时候火上浇油了
 
 # - FUNCTIONAL FLOWERS
 # -- AN INTRODUCTION TO FUNCTION
 botania.entry.fIntro=功能的介绍
 botania.tagline.fIntro=用魔力做事的花
-botania.page.fIntro0=植物魔法师生产的&4魔力&0有许 多地方可以用到,其中一个就 是&4功能花&0.<br>这些花会从附近的&1魔力池&0抽 取&4魔力&0,用以完成它们所定的 任务.<br>注意它们不能直接从&1魔力发&0 &1射器&0获取魔力.
-botania.page.fIntro1=所有的&4功能花&0,就像&4产能花&0一 样有一小部分&4魔力&0的缓存.<br>查看&4魔力&0的标准方法就是, 用&1森林法杖&0右击更新魔力读 条.
-botania.page.fIntro2=这些花会记住它们抽取&4魔力&0 的那个&1魔力池&0.它们只会从自 己被种下时最近的池子(或是 之后最近放置的,如果没有的 话),仅此一个,除非这个池子 被移除.可用&4绑定模式&0的法杖 将它绑定到另一个池子.
-botania.page.fIntro3=最后,制作时用到&1红石根&0的功 能花.花的效果能用红石控制.
+botania.page.fIntro0=植物魔法师生产的&4魔力&0有许 多地方可以用到，其中一个就 是&4功能花&0。<br>这些花会从附近的&1魔力池&0抽 取&4魔力&0，用以完成它们所定的 任务。<br>注意它们不能直接从&1魔力发&0 &1射器&0获取魔力。
+botania.page.fIntro1=所有的&4功能花&0，就像&4产能花&0一 样有一小部分&4魔力&0的缓存。<br>查看&4魔力&0的标准方法就是， 用&1森林法杖&0右击更新魔力读 条。
+botania.page.fIntro2=这些花会记住它们抽取&4魔力&0 的那个&1魔力池&0。它们只会从自 己被种下时最近的池子（或是 之后最近放置的，如果没有的 话），仅此一个，除非这个池子 被移除。可用&4绑定模式&0的法杖 将它绑定到另一个池子。
+botania.page.fIntro3=最后，制作时用到&1红石根&0的功 能花.花的效果能用红石控制。
 botania.page.fIntro4=&1红石根&0方便红石控制
 
 # -- FLOWER SHRINKING
 botania.entry.flowerShrinking=缩小花
-botania.tagline.flowerShrinking=同样的花,更小的范围
-botania.page.flowerShrinking0=有些功能花的工作范围太大 了,而有的人不需要那么大的 范围,而现在只需要将花投入 &1炼金催化&0的&1魔力池&0,消耗一点 &4魔力&0,它们的工作半径就会被 缩小,其余效果保持不变.
+botania.tagline.flowerShrinking=同样的花，更小的范围
+botania.page.flowerShrinking0=有些功能花的工作范围太大 了，而有的人不需要那么大的 范围，而现在只需要将花投入 &1炼金催化&0的&1魔力池&0，消耗一点 &4魔力&0，它们的工作半径就会被 缩小，其余效果保持不变。
 botania.page.flowerShrinking1=就像手办一样
 
 # -- MODULATING DELAY
 botania.entry.flowerSpeed=延迟控制
 botania.tagline.flowerSpeed=改变花的工作时间
 botania.page.flowerSpeed0=与那些会把物品丢在地上的&4功 能型花朵&0交互时有个问题，就 是如何确保它们井然有序地工 作。<br>把花种在&1灰化土&0上会让它们 在拾取物品前延迟少许几秒， 这样可以做出一个有“优先级” 的分类系统。若是把花种在 &1菌丝&0上，其延迟会更大。
-botania.page.flowerSpeed1=这个系统还可以借助&1寒地之种&0 和&1菌丝孢子&0扩展到&1浮空花&0上。<br>对于两朵延迟等级一样的花 (或者无延迟)，&4产能花&0(例如&1火 红莲&0)会先于&4功能花&0(例如&1漏斗 花&0)捡起物品。 若是两朵一模一样的花呢？这 是个秘密。
+botania.page.flowerSpeed1=这个系统还可以借助&1寒地之种&0 和&1菌丝孢子&0扩展到&1浮空花&0上。<br>对于两朵延迟等级一样的花 （或者无延迟），&4产能花&0（例如&1火 红莲&0）会先于&4功能花&0（例如&1漏斗 花&0）捡起物品。 若是两朵一模一样的花呢？这 是个秘密。
 
 # -- JADED AMARANTHUS
 botania.entry.jadedAmaranthus=翡翠苋
 botania.tagline.jadedAmaranthus=制作更多的魔力花
-botania.page.jadedAmaranthus0=每个人都喜欢花对吧?&1翡翠苋&0 就是为此而生的.<br>用&1魔力池&0给它提供&4魔力&0会让 它在周围快速长出新的&1神秘&0 &1花&0,在范围内的任何一处.
+botania.page.jadedAmaranthus0=每个人都喜欢花对吧？&1翡翠苋&0 就是为此而生的。<br>用&1魔力池&0给它提供&4魔力&0会让 它在周围快速长出新的&1神秘&0 &1花&0，在范围内的任何一处。
 botania.page.jadedAmaranthus1=&o这难道是紫丁香&r。
-botania.page.jadedAmaranthus2=&o等一下,你刚刚是召唤出了一 大堆花么?<br>是啊,有什么奇怪的?<br>这不科学,不是么?<br>我有魔力,需要什么科学!
+botania.page.jadedAmaranthus2=&o等一下，你刚刚是召唤出了一 大堆花么？<br>是啊，有什么奇怪的？<br>这不科学，不是么？<br>我有魔力，需要什么科学！
 
 # -- BELLETHRONE
 botania.entry.bellethorne=娇媚之刺
 botania.tagline.bellethorne=伤害生物
-botania.page.bellethorne0=&1娇媚之刺&0是朵神奇的花.通过 使用&4魔力&0它会对周围一切生 物造成伤害(对&4玩家&0安全).
-botania.page.bellethorne1=&o每朵玫瑰都有它自己的刺&r.
+botania.page.bellethorne0=&1娇媚之刺&0是朵神奇的花。通过 使用&4魔力&0它会对周围一切生 物造成伤害（对&4玩家&0安全）。
+botania.page.bellethorne1=&o每朵玫瑰都有它自己的刺&r。
 
 # -- DREADTHORNE
 botania.entry.dreadthorne=恐惧之刺
 botania.tagline.dreadthorne=只伤害成年动物
-botania.page.dreadthorne0=&1恐惧之刺&0比起&1娇媚之刺&0稍 微特殊一点,因为它,不会无 差别伤害生物,只会伤害&4成年&0 动物而已.
-botania.page.dreadthorne1=&o不,邦德先生,你可以去死了&r.
+botania.page.dreadthorne0=&1恐惧之刺&0比起&1娇媚之刺&0稍 微特殊一点，因为它，不会无 差别伤害生物，只会伤害&4成年&0 动物而已。
+botania.page.dreadthorne1=&o不，邦德先生，你可以去死了&r。
 
 # -- HEISEI DREAM
 botania.entry.heiseiDream=平成之梦
 botania.tagline.heiseiDream=让怪物互相残杀
-botania.page.heiseiDream0=&1平成之梦&0会用&4魔力&0,会唤醒附 近&4怪物&0的仇恨,让它们窝里斗.
+botania.page.heiseiDream0=&1平成之梦&0会用&4魔力&0，会唤醒附 近&4怪物&0的仇恨，让它们窝里斗。
 botania.page.heiseiDream1=&o生于忧患，死于安乐&r。
 
 # -- TIGERSEYE
 botania.entry.tigerseye=虎之眼
 botania.tagline.tigerseye=吓唬并赶走爬行者
-botania.page.tigerseye0=我们都知道&4爬行者&0害怕&4猫&0.<br>&1虎之眼&0利用非常微弱的,通过 散发出猫的气味,恐吓附近的 &4爬行者&0,阻止它们爆炸.也会 让它们主动逃离&4玩家&0.
-botania.page.tigerseye1=&o是时候向敌人反击了&r.
+botania.page.tigerseye0=我们都知道&4爬行者&0害怕&4猫&0。<br>&1虎之眼&0利用非常微弱的，通过 散发出猫的气味，恐吓附近的 &4爬行者&0，阻止它们爆炸。也会 让它们主动逃离&4玩家&0。
+botania.page.tigerseye1=&o是时候向敌人反击了&r。
 
 # -- ORECHID
 botania.entry.orechid=凝矿兰
 botania.tagline.orechid=石中取矿
-botania.page.orechid0=尽管挖矿很好,我们应想些可 再生的方法.&1凝矿兰&0会用(大量 的)&4魔力&0来在附近的&1石头&0方块 中生成&4矿物&0.<br>它生成的矿物是随机的,但显 然普通的比稀有的偏多.
-botania.page.orechid1=&o这可不是龙的便便(SAO)&r.
+botania.page.orechid0=尽管挖矿很好，我们应想些可 再生的方法。&1凝矿兰&0会用（大量 的）&4魔力&0来在附近的&1石头&0方块 中生成&4矿物&0。<br>它生成的矿物是随机的，但显 然普通的比稀有的偏多。
+botania.page.orechid1=&o这可不是龙的便便（SAO）&r.
 
 # -- ORECHID IGNEM
 botania.entry.orechidIgnem=炎矿兰
 botania.tagline.orechidIgnem=地狱岩里的地狱矿
-botania.page.orechidIgnem0=&1凝矿兰&0是朵不错的花.用&4魔力&0 来产生原矿,对谁而言都是极 好的.然而它却不能产生来自 &4下界&0的矿物.通过改变花瓣的 配方,你解决了这个问题.现 在它就能利用&1地狱岩&0来产生 &4下界&0矿物.花必须在&4下界&0才能 工作
-botania.page.orechidIgnem1=&o变热吧&r.
+botania.page.orechidIgnem0=&1凝矿兰&0是朵不错的花。用&4魔力&0 来产生原矿，对谁而言都是极 好的。然而它却不能产生来自 &4下界&0的矿物。通过改变花瓣的 配方，你解决了这个问题。现 在它就能利用&1地狱岩&0来产生 &4下界&0矿物。花必须在&4下界&0才能 工作
+botania.page.orechidIgnem1=&o变热吧&r。
 
 # -- FALLEN KANADE
 botania.entry.fallenKanade=天降之奏
 botania.tagline.fallenKanade=强大的小范围
-botania.page.fallenKanade0=&1天降之奏&0是有天使属性的花, 会从附近的&4魔力池&0抽取&4魔力&0 给附近的&4玩家&0提供生命恢复 的效果.
-botania.page.fallenKanade0a=&1天降之奏&0是有天使属性的花, 会从附近的&4魔力池&0抽取&4魔力&0 给附近的&4玩家&0提供生命恢复 的效果.<br>有趣的是,&4血魔法师们&0已经知 道了这朵花会因他们祭坛魔 法的属性而失效,务必注意这 一点.
+botania.page.fallenKanade0=&1天降之奏&0是有天使属性的花， 会从附近的&4魔力池&0抽取&4魔力&0 给附近的&4玩家&0提供生命恢复 的效果。
+botania.page.fallenKanade0a=&1天降之奏&0是有天使属性的花， 会从附近的&4魔力池&0抽取&4魔力&0 给附近的&4玩家&0提供生命恢复 的效果。<br>有趣的是，&4血魔法师们&0已经知 道了这朵花会因他们祭坛魔 法的属性而失效，务必注意这 一点。
 botania.page.fallenKanade1=&o音速手刃，第四版&r。
 
 # -- EXOFLAME
 botania.entry.exoflame=冶炼火
 botania.tagline.exoflame=点燃并给熔炉加速
-botania.page.exoflame0=不像同类的产能花,&1冶炼火&0将 &4魔力&0用于产生热量.<br>邻近的&1熔炉&0都会被&1冶炼火&0加 热,同时提高效率,消耗一些 &4魔力&0.
-botania.page.exoflame1=&o还有比这快的吗&r.
+botania.page.exoflame0=不像同类的产能花，&1冶炼火&0将 &4魔力&0用于产生热量。<br>邻近的&1熔炉&0都会被&1冶炼火&0加 热，同时提高效率，消耗一些 &4魔力&0。
+botania.page.exoflame1=&o还有比这快的吗&r。
 
 # -- AGRICARNATION
 botania.entry.agricarnation=田园康乃馨
 botania.tagline.agricarnation=让作物长得更快
-botania.page.agricarnation0=要喂饱一群人,首先作物缓慢 的生长是个问题.&1田园康乃馨&0 是种能将&4魔力&0变为一种自然 肥料的花,能让附近的植物快 速生长.
+botania.page.agricarnation0=要喂饱一群人，首先作物缓慢 的生长是个问题。&1田园康乃馨&0 是种能将&4魔力&0变为一种自然 肥料的花，能让附近的植物快 速生长。
 botania.page.agricarnation1=&o高山的颂歌&r...
 
 # -- HOPPERHOCK
 botania.entry.hopperhock=漏斗花
 botania.tagline.hopperhock=捡起物品
-botania.page.hopperhock0=&1漏斗花&0会拾取它附近的物品. 提供&4魔力&0不是必需的,但这会 增加拾取范围.<br>捡起的物品会被放入相邻的 容器中(比如&1箱子&0).给任意容 器挂上&1物品展示框&0会指定某 种物品是否放入容器.
-botania.page.hopperhock1=所有未挂有&1物品展示框&0的容 器会接受所有物品,但有标记 的容器会优先一些.<br>物品排序的规则可借由&1森林&0 &1法杖&0shift右击花来改变.
-botania.page.hopperhock2=&o我猜我会带上我的萝莉私奔&r.
+botania.page.hopperhock0=&1漏斗花&0会拾取它附近的物品。 提供&4魔力&0不是必需的，但这会 增加拾取范围。<br>捡起的物品会被放入相邻的 容器中（比如&1箱子&0）。给任意容 器挂上&1物品展示框&0会指定某 种物品是否放入容器。
+botania.page.hopperhock1=所有未挂有&1物品展示框&0的容 器会接受所有物品，但有标记 的容器会优先一些。<br>物品排序的规则可借由&1森林&0 &1法杖&0shift右击花来改变。
+botania.page.hopperhock2=&o我猜我会带上我的萝莉私奔&r。
 
 # -- TANGLEBERRIE
 botania.entry.tangleberrie=束缚莓
 botania.tagline.tangleberrie=让怪物呆在这
-botania.page.tangleberrie0=&1束缚莓&0是一种消耗少量&4魔力&0 让所有邻近的动物和怪物限 制在一个圈内无法脱离的花.
-botania.page.tangleberrie1=&o纠缠,勇敢和冻结&r.
+botania.page.tangleberrie0=&1束缚莓&0是一种消耗少量&4魔力&0 让所有邻近的动物和怪物限 制在一个圈内无法脱离的花。
+botania.page.tangleberrie1=&o纠缠，勇敢和冻结&r。
 
 # -- JIYUULIA
 botania.entry.jiyuulia=自由之翼
 botania.tagline.jiyuulia=赶走怪物
-botania.page.jiyuulia0=&1自由之翼&0是种消耗少量&4魔力&0 而使得所有邻近的动物和怪 物无法进入一个圈内的花.
+botania.page.jiyuulia0=&1自由之翼&0是种消耗少量&4魔力&0 而使得所有邻近的动物和怪 物无法进入一个圈内的花。
 # No translation # botania.page.jiyuulia1=&oHR HD DT Masterpiece&r.
 
 # -- RANNUNCARPUS
 botania.entry.rannuncarpus=手掌花
 botania.tagline.rannuncarpus=放置方块
-botania.page.rannuncarpus0=真是朵方便的花,&1手掌花&0会拾 取附近任何掉落物品形式的 方块并放置在其他地方.只会 将方块放置在特殊的方块上, 要指定这种特殊方块,只需将 它放在这朵花种植的土方块 下就可以.
-botania.page.rannuncarpus1=方块式物品,比如&1甘蔗&0也会奏 效的,但,就像这些方块一样, 它们只能被放在平常能放置 的地方.<br>最后,提供&4魔力&0不是必需的, 但这会增加工作范围.
+botania.page.rannuncarpus0=真是朵方便的花，&1手掌花&0会拾 取附近任何掉落物品形式的 方块并放置在其他地方.只会 将方块放置在特殊的方块上， 要指定这种特殊方块，只需将 它放在这朵花种植的土方块 下就可以。
+botania.page.rannuncarpus1=方块式物品，比如&1甘蔗&0也会奏 效的，但，就像这些方块一样， 它们只能被放在平常能放置 的地方。<br>最后，提供&4魔力&0不是必需的， 但这会增加工作范围。
 # No translation # botania.page.rannuncarpus2=&oThe Sandpit of Yanille&r?
 
 # -- HYACIDUS
 botania.entry.hyacidus=毒风信
 botania.tagline.hyacidus=毒死怪物
-botania.page.hyacidus0=因为某些原因,毒不会致命. &1毒风信&0,能用来毒害周围的怪 物,让它们脆弱得一击即死.
-botania.page.hyacidus1=&o硬骨头不好啃&r.
+botania.page.hyacidus0=因为某些原因，毒不会致命. &1毒风信&0,能用来毒害周围的怪 物，让它们脆弱得一击即死。
+botania.page.hyacidus1=&o硬骨头不好啃&r。
 
 # -- POLLIDISIAC
 botania.entry.pollidisiac=畜牧花
 botania.tagline.pollidisiac=让他们产仔
-botania.page.pollidisiac0=动物爱吃东西,事实上那就是 它们一直所做的事.有趣的是 它们只会吃喂给它们的东西.<br>&1畜牧花&0就会那么做,消耗一些 魔力,利用附近可用的食物类 物品(&1小麦&0,&1胡萝卜&0,等等)来 饲养动物,使它们拥有&o好心情&r.
-botania.page.pollidisiac1=&o地狱厨房&r.
+botania.page.pollidisiac0=动物爱吃东西，事实上那就是 它们一直所做的事。有趣的是 它们只会吃喂给它们的东西。<br>&1畜牧花&0就会那么做，消耗一些 魔力，利用附近可用的食物类 物品（&1小麦&0，&1胡萝卜&0，等等）来 饲养动物，使它们拥有&o好心情&r。
+botania.page.pollidisiac1=&o地狱厨房&r。
 
 # -- CLAYCONIA
 botania.entry.clayconia=粘土花
 botania.tagline.clayconia=沙子变粘土
-botania.page.clayconia0=&1粘土花&0是种简单的花,本质上 来说.它所做的就是滋润附近 的&1沙子&0,将它们转为&1粘土&0,这 个过程会使用一定量的&4魔力&0, 还不太疯狂吧.
-botania.page.clayconia1=&o简直是杀手的笑话&r.
+botania.page.clayconia0=&1粘土花&0是种简单的花，本质上 来说。它所做的就是滋润附近 的&1沙子&0，将它们转为&1粘土&0，这 个过程会使用一定量的&4魔力&0， 还不太疯狂吧。
+botania.page.clayconia1=&o简直是杀手的笑话&r。
 
 # -- LOONIUM
 botania.entry.loonium=聚宝花
 botania.tagline.loonium=召唤地牢的战利品
 botania.page.loonium0=任何疲于冒险的家伙们都知 道&4地牢&0会有些好东西。&1聚宝花&0 会消耗大量&4魔力&0，使这些物品 实体化，它也因此吸引了无数探险家。<br>然而，天下没有免费的午餐。 探险家们将会遇到守卫宝藏的 怪物，而且这些怪物绝非等闲之 辈，迎战时请务必小心。不过 呢，这些强大的怪物会掉落&4来自 地牢的宝藏&0。
-botania.page.loonium1=&o箱子箱子我需要箱子&r!
+botania.page.loonium1=&o箱子箱子我需要箱子&r！
 
 # -- DAFFOMILL
 botania.entry.daffomill=扇水仙
 botania.tagline.daffomill=用风移动物品
-botania.page.daffomill0=&1扇水仙&0就像个风扇.它会消耗 少量&4魔力&0推动它前方的任何 物品.<br>使用&1森林法杖&0shift右击可以 调整朝向.它实时的朝向可以 通过风粒子的效果来判断.
-botania.page.daffomill1=&o风电机?不,我就是个风扇&r.
+botania.page.daffomill0=&1扇水仙&0就像个风扇。它会消耗 少量&4魔力&0推动它前方的任何 物品。<br>使用&1森林法杖&0shift右击可以 调整朝向。它实时的朝向可以 通过风粒子的效果来判断。
+botania.page.daffomill1=&o风电机？不，我就是个风扇&r。
 
 # -- VINCULOTUS
 botania.entry.vinculotus=诱引莲
 botania.tagline.vinculotus=禁止末影人传送
-botania.page.vinculotus0=&1诱引莲&0有着干扰大范围内的 &4末影人&0瞬移的能力.消耗一些 &4魔力&0,当&4末影人&0要瞬移到某处 时,它们只会被传送到&1诱引莲&0 的所在处.
+botania.page.vinculotus0=&1诱引莲&0有着干扰大范围内的 &4末影人&0瞬移的能力。消耗一些 &4魔力&0，当&4末影人&0要瞬移到某处 时，它们只会被传送到&1诱引莲&0 的所在处。
 botania.page.vinculotus1=用你的指尖轻触这朵黑莲
 
 # -- SPECTRANTHEMUM
 botania.entry.spectranthemum=凌空蓟
 botania.tagline.spectranthemum=传送物品
-botania.page.spectranthemum0=长途运输物品是一个艰巨的 任务.水路和&1扇水仙&0也没法简 单完成这个任务.&1凌空蓟&0会消 耗少量&4魔力&0将周围的掉落物 传送到另一个地点.传送过一 次之后,其他同类的花就不能 用于传送该种物品.
-botania.page.spectranthemum1=为了指定物品的去向,可以使 用&1森林法杖&0的绑定模式来绑 定这朵花和某个方块,就像绑 到魔力池上一样.仅在12格以 内有效.查看这朵花绑定的方 块就像查看魔力池传输&4魔力&0 那样,潜行时用法杖指向它即 可.
-botania.page.spectranthemum2=这朵花受&4区块加载机制&0所限, 因此它不会作用于未加载的 区块.这里就不多加叙述了.<br>&o推荐查询: "Chunks and Chicken", "Anchors of the World".
+botania.page.spectranthemum0=长途运输物品是一个艰巨的 任务.水路和&1扇水仙&0也没法简 单完成这个任务。&1凌空蓟&0会消 耗少量&4魔力&0将周围的掉落物 传送到另一个地点.传送过一 次之后，其他同类的花就不能 用于传送该种物品。
+botania.page.spectranthemum1=为了指定物品的去向，可以使 用&1森林法杖&0的绑定模式来绑 定这朵花和某个方块，就像绑 到魔力池上一样。仅在12格以 内有效.查看这朵花绑定的方 块就像查看魔力池传输&4魔力&0 那样，潜行时用法杖指向它即 可。
+botania.page.spectranthemum2=这朵花受&4区块加载机制&0所限， 因此它不会作用于未加载的 区块.这里就不多加叙述了。<br>&o推荐查询： "Chunks and Chicken"， "Anchors of the World"。
 # No translation # botania.page.spectranthemum3=&o(n)spooky(n+2)me&r.
 
 # -- MEDUMONE
 botania.entry.medumone=石化草
 botania.tagline.medumone=冻住怪物
-botania.page.medumone0=&1石化草&0能完全抑制周围生物 的移动.<br>当它接收到&4魔力&0时,会用强力 的减速效果抑制附近任何实 体的移动,除了玩家.
+botania.page.medumone0=&1石化草&0能完全抑制周围生物 的移动.<br>当它接收到&4魔力&0时，会用强力 的减速效果抑制附近任何实 体的移动，除了玩家。
 botania.page.medumone1=&o他们看上去像是石像一般&r...
 
 # -- MARIMORPHOSIS
 botania.entry.marimorphosis=异构花
 botania.tagline.marimorphosis=创造新的石头
-botania.page.marimorphosis0=&1异构花&0会使得附近的&1石质&0方 块发生转变.从而变为8种不 同的&1变质岩&0中的1种.8种都 会生成,但生成得最多的取决 于所在的群系.它们都能用于 制作石砖,錾制石砖,台阶,楼 梯甚至是各种&1花药台&0.
+botania.page.marimorphosis0=&1异构花&0会使得附近的&1石质&0方 块发生转变。从而变为8种不 同的&1变质岩&0中的1种。8种都 会生成，但生成得最多的取决 于所在的群系。它们都能用于 制作石砖，錾制石砖，台阶，楼 梯甚至是各种&1花药台&0。
 botania.page.marimorphosis1=各种类型的&1变质岩&0
 botania.page.marimorphosis3=就像ClariS的歌一样多彩
-botania.page.marimorphosis2=&o这朵花就像是漂亮的片麻岩&r.
+botania.page.marimorphosis2=&o这朵花就像是漂亮的片麻岩&r。
 
 # -- BUBBELL
 botania.entry.bubbell=气泡铃
 botania.tagline.bubbell=水下的气泡
-botania.page.bubbell0=水下建筑可不轻松,要在海底 腾出空气既麻烦也耗时.在水 下种上一株&1气泡铃&0,提供&4魔力&0 (优先),它就会产生一个球形 的空间并排开周围的水.这个 球半径约12格.要保持它就得 持续供应&4魔力&0.
-botania.page.bubbell1=&o就像一些休闲游戏&r.
+botania.page.bubbell0=水下建筑可不轻松，要在海底 腾出空气既麻烦也耗时。在水 下种上一株&1气泡铃&0，提供&4魔力&0 （优先），它就会产生一个球形 的空间并排开周围的水。这个 球半径约12格。要保持它就得 持续供应&4魔力&0。
+botania.page.bubbell1=&o就像一些休闲游戏&r。
 
 # -- SOLEGNOLIA
 botania.entry.solegnolia=弱磁兰
 botania.tagline.solegnolia=创造一个磁化指环无法工作的地方
-botania.page.solegnolia0=&1磁化指环&0对于搜集材料的人 而言十分便利,但这也会让他 们陷入另一个麻烦:总是会捡 起不需要的物品.<br>&1弱磁兰&0会抑制指环的能力并 阻止任何物品被吸往佩戴指 环的人.这朵花不会消耗任何 魔力,尽管它有一个魔力缓存 区(也许是bug).
+botania.page.solegnolia0=&1磁化指环&0对于搜集材料的人 而言十分便利，但这也会让他 们陷入另一个麻烦：总是会捡 起不需要的物品。<br>&1弱磁兰&0会抑制指环的能力并 阻止任何物品被吸往佩戴指 环的人。这朵花不会消耗任何 魔力，尽管它有一个魔力缓存 区（也许是bug）。
 botania.page.solegnolia1=开/关
 
 # -- BERGAMUTE
@@ -2455,15 +2455,15 @@ botania.entry.gIntro=产能的介绍
 botania.tagline.gIntro=消耗资源产生魔力
 botania.page.gIntro0=&4生产魔力&0应是每个植物魔法 师最优先的事项。幸运的是有 一系列&4产能花&0能胜任这项工 作。<br>正如它们的名字所述，这些花 会以主动或被动方式产能， 其中被动产能意味着这朵花 不需要操作就可以消耗某种资 源产生魔力。
 botania.page.gIntro1=所有的&4产能花&0都和&4功能花&0一样 有少量&4魔力&0缓存。<br>查看&4魔力&0的标准方法就是，用 &1森林法杖&0右击更新魔力读数。<br>这些魔力会被存入附近最近 的&1魔力发射器&0中。
-botania.page.gIntro2=注意这些花会记住它们存入 &4魔力&0的&1魔力发射器&0。它们只会 存入被种下时最近的发射器 (或之后放置得最近的发射器 ，如果种下时没有的话)，仅 此一个，除非该发射器被移除 。可用&4绑定模式&0的法杖将它绑 定到另一个发射器。
+botania.page.gIntro2=注意这些花会记住它们存入 &4魔力&0的&1魔力发射器&0。它们只会 存入被种下时最近的发射器 （或之后放置得最近的发射器 ，如果种下时没有的话），仅 此一个，除非该发射器被移除 。可用&4绑定模式&0的法杖将它绑 定到另一个发射器。
 botania.page.gIntro3=第一朵&4产能花&0的选择很简单。 作为初出茅庐的植物魔法师， 你有两个选择：&1火红莲&0和&1水绣球&0。<br>前者燃烧&1煤炭&0以产生魔力；后者 则只消耗&1水&0产生魔力。作为免 费魔力的代价，水绣球会在现 实世界的一小时后枯萎。
 
 # -- ENDOFLAME
 botania.entry.endoflame=火红莲
 botania.tagline.endoflame=燃烧产能
-botania.page.endoflame0=&1火红莲&0是一种非常原始的&4产能 花&0，它会吸收掉落在附近的任 何可燃物品和方块(每次一个) 并在燃烧期间释放出魔力.<br>物品的燃烧时间差不多是它在 熔炉中燃烧时间的一半。
-botania.page.endoflame1=有个小提示,&1火红莲&0不会燃烧 有燃烧产物的物品,比如&1岩浆&0 &1桶&0,会留下&1空桶&0.<br>另外，这朵花最多只能存储四倍 于&1煤块&0的燃料。如果有什么燃 料的燃烧时间比四个煤块还长， 火红莲的效率会降低。
-botania.page.endoflame3=由于&1火红莲&0通常是植物魔法师们在自动化&4主动产能花&0的道路上迈出的第一步,这里不建议一直手动管理火红莲.因为火红莲只会燃烧掉落物,使用&1花格箱&0(相关介绍可在&4自然装置&0部分找到)或者其它装置(计时器、压力板等等)进行自动化会是理想的选择.
+botania.page.endoflame0=&1火红莲&0是一种非常原始的&4产能 花&0，它会吸收掉落在附近的任 何可燃物品和方块（每次一个） 并在燃烧期间释放出魔力.<br>物品的燃烧时间差不多是它在 熔炉中燃烧时间的一半。
+botania.page.endoflame1=有个小提示,&1火红莲&0不会燃烧 有燃烧产物的物品,比如&1岩浆&0 &1桶&0,会留下&1空桶&0。<br>另外，这朵花最多只能存储四倍 于&1煤块&0的燃料。如果有什么燃 料的燃烧时间比四个煤块还长， 火红莲的效率会降低。
+botania.page.endoflame3=由于&1火红莲&0通常是植物魔法师们在自动化&4主动产能花&0的道路上迈出的第一步，这里不建议一直手动管理火红莲。因为火红莲只会燃烧掉落物，使用&1花格箱&0（相关介绍可在&4自然装置&0部分找到）或者其它装置（计时器、压力板等等）进行自动化会是理想的选择.
 botania.page.endoflame2=&o当纵火也有用时&r。
 
 # -- HYDROANGEAS
@@ -2476,29 +2476,29 @@ botania.page.hydroangeas1=&oUnder the seeeeeeaaaaaaa~
 # -- THERMALILY
 botania.entry.thermalily=炽玫瑰
 botania.tagline.thermalily=地热发电植魔版
-botania.page.thermalily0=有时候产能速度太慢了,就像 &1水绣球&0和&1火红莲&0.这个问题的 答案就是&1炽玫瑰&0,原理类似&1水&0 &1绣球&0,但它吸收的是&1熔岩&0.它 会在消耗&1熔岩&0时迅速产生大 量的&1魔力&0,这也会让它过热, 因此它在重新开始产能前还 需要一些时间来冷却.
-botania.page.thermalily2=在工作阶段时,&1炽玫瑰&0产出的&4魔力&0的量十分之高,十分适合应对短时间内需要大量消耗魔力的情况.<br>在它进入“冷却阶段”时,它依旧会消耗熔岩,但不会产出任何&4魔力&0,直到5分钟的冷却期结束后方能继续产出魔力.
-botania.page.thermalily3=虽然&1发射器&0可以胜任自动放置&1熔岩&0的工作,但自动收集&4下界&0或地底深处的熔岩并用来自动产出魔力却完全是另外一回事.<br>因此,&1炽玫瑰&0被归类为“半自动化产能花”.
-botania.page.thermalily1=&o最难对付的花&r.
+botania.page.thermalily0=有时候产能速度太慢了，就像 &1水绣球&0和&1火红莲&0。这个问题的 答案就是&1炽玫瑰&0，原理类似&1水&0 &1绣球&0，但它吸收的是&1熔岩&0。它 会在消耗&1熔岩&0时迅速产生大 量的&1魔力&0，这也会让它过热， 因此它在重新开始产能前还 需要一些时间来冷却。
+botania.page.thermalily2=在工作阶段时，&1炽玫瑰&0产出的&4魔力&0的量十分之高，十分适合应对短时间内需要大量消耗魔力的情况。<br>在它进入“冷却阶段”时，它依旧会消耗熔岩，但不会产出任何&4魔力&0，直到5分钟的冷却期结束后方能继续产出魔力。
+botania.page.thermalily3=虽然&1发射器&0可以胜任自动放置&1熔岩&0的工作，但自动收集&4下界&0或地底深处的熔岩并用来自动产出魔力却完全是另外一回事。<br>因此，&1炽玫瑰&0被归类为“半自动化产能花”。
+botania.page.thermalily1=&o最难对付的花&r。
 
 # -- ROSA ARCANA
 botania.entry.arcanerose=阿卡纳蔷薇
 botania.tagline.arcanerose=经验当魔力使
-botania.page.arcanerose0=&4经验点&0是一种形式的魔力. &1阿卡纳蔷薇&0能吸收附近玩家 的经验,并利用它产生&1魔力&0.
-botania.page.arcanerose1=&o该卡被召唤时,投掷硬币&r.
+botania.page.arcanerose0=&4经验点&0是一种形式的魔力。 &1阿卡纳蔷薇&0能吸收附近玩家 的经验，并利用它产生&1魔力&0。
+botania.page.arcanerose1=&o该卡被召唤时，投掷硬币&r。
 
 # -- MUNCHDEW
 botania.entry.munchdew=咀叶花
 botania.tagline.munchdew=树叶的魔力
-botania.page.munchdew0=通过其它生物材料生产自然 能量形式的&4魔力&0是极好的.利 用&1咀叶花&0,靠近花的一切&1树叶&0 都会被啃食并转为&4魔力&0.<br>需要注意,被啃食的树叶不会 掉落树苗和其它物品.
-botania.page.munchdew1=这朵花每啃食一棵树都会输 出大量的魔力.<br>然而,当所有可啃食的树叶吃 完后,它就会稍作休息并且只 能在一分钟左右后重新开始 啃食.
-botania.page.munchdew2=&o你付饭钱吧,柴崎&r.
+botania.page.munchdew0=通过其它生物材料生产自然 能量形式的&4魔力&0是极好的。利 用&1咀叶花&0，靠近花的一切&1树叶&0 都会被啃食并转为&4魔力&0。<br>需要注意，被啃食的树叶不会 掉落树苗和其它物品。
+botania.page.munchdew1=这朵花每啃食一棵树都会输 出大量的魔力。<br>然而，当所有可啃食的树叶吃 完后，它就会稍作休息并且只 能在一分钟左右后重新开始 啃食。
+botania.page.munchdew2=&o你付饭钱吧，柴崎&r。
 
 # -- ENTROPINNYUM
 botania.entry.entropinnyum=热爆花
 botania.tagline.entropinnyum=源自TNT的魔力
-botania.page.entropinnyum0=事实上为了制造一波&4魔力&0,就 需要附近有一波爆炸.<br>靠近&1热爆花&0点燃一个&1TNT&0,花 就会吸收爆炸产生的热与冲 击并产生大量的&4魔力&0,消除一 切爆炸伤害.最后,为了吸收 爆炸,花本身需要无&4魔力&0否则 这个过程就会失败.
-botania.page.entropinnyum1=&o耍帅的家伙是不会看爆炸的&r.
+botania.page.entropinnyum0=事实上为了制造一波&4魔力&0，就 需要附近有一波爆炸。<br>靠近&1热爆花&0点燃一个&1TNT&0，花 就会吸收爆炸产生的热与冲 击并产生大量的&4魔力&0，消除一 切爆炸伤害。最后，为了吸收 爆炸，花本身需要无&4魔力&0否则 这个过程就会失败。
+botania.page.entropinnyum1=&o耍帅的家伙是不会看爆炸的&r。
 
 # -- KEKIMURUS
 botania.entry.kekimurus=贪食花
