@@ -43,6 +43,7 @@ import vazkii.botania.common.crafting.recipe.SpecialFloatingFlowerRecipe;
 import vazkii.botania.common.crafting.recipe.SpellClothRecipe;
 import vazkii.botania.common.crafting.recipe.TerraPickTippingRecipe;
 import vazkii.botania.common.item.ModItems;
+import vazkii.botania.common.item.equipment.bauble.ItemBaubleCosmetic;
 import vazkii.botania.common.lib.LibItemNames;
 import vazkii.botania.common.lib.LibMisc;
 import vazkii.botania.common.lib.LibOreDict;
@@ -406,17 +407,6 @@ public final class ModCraftingRecipes {
 				'I', LibOreDict.TERRA_STEEL,
 				'L', LibOreDict.LIVINGWOOD_TWIG).setRegistryName(ModItems.terraPick.getRegistryName()));
 
-		/*
-		todo if tc ever comes back?
-		// Revealing Helmet Recipes
-		if(Botania.thaumcraftLoaded) {
-			Item goggles = Item.REGISTRY.getObject(new ResourceLocation("thaumcraft", "goggles"));
-			addShapelessRecipe(new ItemStack(ModItems.manasteelHelmRevealing), new ItemStack(ModItems.manasteelHelm), goggles);
-			recipeHelmetOfRevealing = BotaniaAPI.getLatestAddedRecipe(); //We want manasteel to show in the Lexicon
-			addShapelessRecipe(new ItemStack(ModItems.terrasteelHelmRevealing), new ItemStack(ModItems.terrasteelHelm), goggles);
-			addShapelessRecipe(new ItemStack(ModItems.elementiumHelmRevealing), new ItemStack(ModItems.elementiumHelm), goggles);
-		}
-		*/
 	}
 
 	public static void init() {
@@ -628,7 +618,7 @@ public final class ModCraftingRecipes {
 		recipeStarSword = ModItems.starSword.getRegistryName();
 		recipeThunderSword = ModItems.thunderSword.getRegistryName();
 		recipeCorporeaRetainer = ModBlocks.corporeaRetainer.getRegistryName();
-		recipesCosmeticItems = IntStream.range(0, 32).mapToObj(i -> path("cosmetic_" + i)).collect(Collectors.toList());
+		recipesCosmeticItems = IntStream.range(0, ItemBaubleCosmetic.SUBTYPES).mapToObj(i -> path("cosmetic_" + i)).collect(Collectors.toList());
 		recipeTinyPlanet = ModItems.tinyPlanet.getRegistryName();
 		recipeTinyPlanetBlock = ModBlocks.tinyPlanet.getRegistryName();
 		recipeManaRing = ModItems.manaRing.getRegistryName();

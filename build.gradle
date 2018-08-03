@@ -26,7 +26,10 @@ repositories {
         url = "http://maven.thiakil.com"
     }
     maven {
-        url "http://dvs1.progwml6.com/files/maven"
+        url = "http://dvs1.progwml6.com/files/maven"
+    }
+    maven {
+        url = "http://minecraft.curseforge.com/api/maven/"
     }
 }
 
@@ -42,6 +45,11 @@ ext.priv = parseConfig(file('private.properties'))
 version = "${config.version}-${config.build_number}"
 group = "vazkii.botania" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = config.mod_name
+
+if (System.getenv().BUILD_NUMBER != null) { 
+    //adds the build number to the end of the version string if on a build server
+    version += ".${System.getenv().BUILD_NUMBER}"
+}
 
 minecraft {
     version = "${config.mc_version}-${config.forge_version}"
@@ -75,6 +83,7 @@ jar {
 dependencies {
     deobfCompile "com.azanor.baubles:Baubles:1.12-1.5.2"
     deobfCompile "mezz.jei:jei_1.12:4.7.0.67"
+    deobfCompile "thaumcraft:Thaumcraft:1.12.2:6.1.BETA17"
 
     //and a bit more for SCP
     sshAntTask "org.apache.ant:ant-jsch:1.7.1", "jsch:jsch:0.1.29"
@@ -156,6 +165,9 @@ task outputDeobf(type: Copy) {
 }
 
 task forgecraft(type: Copy) {
+	if(priv == null){
+		return;
+	}
 	dependsOn "outputDeobf"
 	from "${config.dir_output}/wtf"
 	into file(priv.dir_forgecraft)
@@ -213,11 +225,15 @@ def scp(String dir, Closure antFileset = {}) {
 
 
 def parseConfig(File config) {
-    config.withReader {
-        def prop = new Properties()
-        prop.load(it)
-        return (new ConfigSlurper().parse(prop))
-    }
+	if(config.exists()){
+		config.withReader {
+			def prop = new Properties()
+			prop.load(it)
+			return (new ConfigSlurper().parse(prop))
+		}
+	} else {
+		return null;
+	}
 }
 
 jar {
@@ -230,6 +246,9 @@ jar {
 }
 
 curseforge {
+	if(priv == null){
+		return;
+	}
     apiKey = priv.cfkey
     project {
         id = "225643"
